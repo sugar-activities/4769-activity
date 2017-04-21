@@ -1,0 +1,8 @@
+
+[Activity]
+name = DJ JARM-The Farmer
+activity_version = 1
+bundle_id = org.ceibaljam.DJ JARM-The Farmer
+exec = sugar-activity JAMActivityFlash.JAMActivityFlash
+icon = JAMActivityFlash
+show_launcher = yes
